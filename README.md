@@ -1,2 +1,1 @@
-# alx-low_level_programming
-learning C language
+C language begins
