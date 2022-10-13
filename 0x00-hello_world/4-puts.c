@@ -4,7 +4,7 @@
  *
  *  * main - Entry point
  *
- *   *
+ *   * Description: Programming in C
  *
  *    * Return: Always 0 (Success)
  *
